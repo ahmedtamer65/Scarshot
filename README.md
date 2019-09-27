@@ -23,5 +23,9 @@ chmod +xscarshot.sh Scarshot.sh
 ./scarshot.sh
 
 ##################
+
+
 thanks
+
+
 #saycheese
