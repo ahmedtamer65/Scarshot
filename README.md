@@ -18,9 +18,9 @@ git clone https://github.com/ahmedtamer65/Scarshot
 
 cd Scarshot
 
-chmod +x Scarshot.sh
+chmod +xscarshot.sh Scarshot.sh
 
-./Scarshot
+./scarshot.sh
 
 
 #saycheese
