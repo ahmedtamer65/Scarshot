@@ -20,4 +20,5 @@ clear
 sleep 0.3
 pkg install wget
 clear
+sleep 0.3
 bash scarshot.sh
