@@ -12,9 +12,6 @@ sleep 0.3
 pkg install curl
 clear
 sleep 0.3
-pkg install git
-clear
-sleep 0.3
 pkg install php
 clear
 sleep 0.3
