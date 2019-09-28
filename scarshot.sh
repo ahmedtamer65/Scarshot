@@ -1,6 +1,6 @@
 #!/bin/bash
 #...!coded by_SCAR(AT)
-
+#cridit to saycheese
 
 trap 'printf "\n";stop' 2
 
